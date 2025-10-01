@@ -2098,7 +2098,7 @@ function Linux.Create(config)
         Parent = LinuxUI,
         BackgroundColor3 = Linux.MainFrameColor,
         BorderColor3 = Color3.fromRGB(39, 39, 42),
-        BackgroundTransparency = 0.13,
+        BackgroundTransparency = 0.85,
         BorderSizePixel = 0,
         Size = UDim2.new(0, 0, 0, 0),
         Position = UDim2.new(0.5, 0, 0.5, 0),
